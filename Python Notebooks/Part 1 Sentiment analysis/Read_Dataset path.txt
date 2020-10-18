@@ -1,0 +1,2 @@
+To get the data go to https://www.dropbox.com/s/3zxn4nnpivc1fkx/amazon_baby.gl.zip?dl=0
+and unzip the file in the same folder than the Python Notebook.
